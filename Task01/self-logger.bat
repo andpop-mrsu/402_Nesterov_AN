@@ -17,4 +17,5 @@ echo.
 echo select * from bd; | sqlite3 -table bd.db
 echo. 
 
+
 pause
